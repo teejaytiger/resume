@@ -11,9 +11,12 @@
 |**Digital Domain/ IM360** </br> FPGA Design Engineer </br> Aug 2016 to May 2017 </br> + Built blocks for integration into real time 360° motion video cameras </br> + Restructured test environment and procedure to reduce design, implementation, and execution time for test benches in simulation. </br> + Utilized co-simulation platform to improve testbench production time by leveraging software experience | <img src=https://pbs.twimg.com/profile_images/1278382289500528640/p6jdJdOv_400x400.jpg alt="alt text" width=100 height=100> </br> + VHDL, Xilinx </br> + Image Processing </br> + Real Time | 
 |**US Army** </br> Intelligence Analyst and Satellite Technician </br> Apr 2008 to Mar 2011 </br> + Focused on socio-political, international, and military dynamic of NE Asia at a strategic leadership decision level </br> + Full-Motion Video distribution through three air-gapped networks </br> + Received training on JMICS system from General Dynamics </br> + Maintainer/Operator working outside of primary military MOS </br> + Maintained, authorized, and distributed usage of over 70 SATCOM circuits from 256kbps to 4096kbps </br> + Received additional training for the JMICS system by ManTech | <img src=https://iconape.com/wp-content/png_logo_vector/us-army-logo.png alt="alt text" width=100 height=100> </br> + Trojan Spirit v3 </br> + JMICS, and GBS SATCOM </br> + NOC Authority </br> + Cable running </br> + Customer Engagement </br> + SATCOM Terminals| 
 
-## Community Effort
-|||
+|**Community**||
 |:--|:--|
 |<img src=https://assets.bbhub.io/company/sites/51/2021/02/FIRST_Vertical_RGB_reverse.png alt="alt text" width=70 height=70>| **Challenge Referee** </br> Oregon Robotics Tournament & Outreach Program (ORTOP) </br> 2018 |
 |<img src=https://cdn.zappy.app/eeacaabe870e79550c25d7dbf689c52f.png alt="alt text" width=70 height=70>| **Teacher** </br> Women's Empowerment </br> 2019 |
 |<img src=https://cdn.zappy.app/faf30190e30793264f40f818e02862fb.png alt="alt text" width=70 height=70>| **Foster Mentor** </br> AgingUp </br> 2020 - Present |
+
+| **Education** ||
+|:--|:--|
+|<img src=https://www.sassafras.com/wp-content/uploads/2018/04/1200px-Rochester_Institute_of_Technology_seal.svg_.png alt="alt text" width=150 height=150>| **BAS Multidisciplinary Studies** </br> Rochester Institute of Technology </br> 2009 - 2016 |
