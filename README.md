@@ -26,3 +26,7 @@
 | **3D Printable Telescope (current project)** | Designed 8in f/6 3D printable telescope </br> Assembled for under $500, at a $2500-$3000 quality </br> Designed in Autodesk Inventor |
 | **FPGA-based RFID block cipher** | Key-based permutation layer Experiment </br> Uses PRESENT as lightweight cipher </br> SPN Designed for personal Altera FPGA dev board |
 | **Short-term rapid prototype SW projects** | Quick and dirty hacks to handle day to day problems </br> Python experiments, all on GitHub </br> https://github.com/teejaytiger?tab=repositories |
+
+| **Personal Achievements** |||
+|:--|:--|:--|
+| **Design/Engineering** <br> -_Framework <br> Design Challenge_ |  </br> [Won a community design contest hosted by Framework](https://twitter.com/FrameworkPuter/status/1563226463406399495) </br> Submitted an original compliant mechanism <br> Final image created using a combination of the following tools: <br>+ Blender <br>+ Autodesk Inventor <br>+ Prusa Slicer |<img src="https://pbs.twimg.com/media/Fa94Np8UcAIUHYF?format=jpg&name=thumb" alt="alt text" width=100 height=100>|
