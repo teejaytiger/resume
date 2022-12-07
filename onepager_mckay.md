@@ -1,5 +1,5 @@
 ## James McKay
-Is a `SW/HW tech stack generalist`,  
+is a `SW/HW tech stack generalist`,  
 Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. Their previous positions are:   
 
 ---
