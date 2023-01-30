@@ -3,11 +3,11 @@ is a `SW/HW tech stack generalist`,
 Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. Their previous positions are:   
 
 ---
-**`Intel Corporation`** : _Software Application Engineer_ (May 2018 to Present) </br> + High touch 3rd party client optimizations and performance analysis (Microsoft, Amazon, Autodesk, SideFX) <br> + Developed internal products that improved consistency in the platform performance collection and analysis <br> + Worked on systems from RTL and FPGA projects through distributed software platforms <br> + Managed/owned [Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) and designed a complete overhaul of the software <br> + Identified issues in pre-production hardware <br> + Developed value prop analysis on both unreleased internal projects and [Optane Memory](https://www.intel.com/content/www/us/en/products/details/memory-storage/optane-memory.html)  
+**`Intel Corporation`** : _Software Application Engineer_ (May 2018 to Present) </br> + High touch 3rd party client optimizations and performance analysis (Microsoft, Amazon, Autodesk, SideFX) <br> + Was brought on as a consultant to establish value prop for unreleased M&E FPGA accelerator <br> + Worked on systems from RTL and FPGA projects through distributed software platforms <br> + Managed/owned [Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) and designed a complete overhaul of the software <br> + Identified issues in pre-production hardware <br> + Developed value prop analysis on both unreleased internal projects and [Optane Memory](https://www.intel.com/content/www/us/en/products/details/memory-storage/optane-memory.html)  
 > Skills: C++, C#, Python, uArch, Optimization, Tools, VTune, WPA/WPR/xperf, SEP/EMON, TypePerf, CAD 
 
 
-**`Coding With Kids`** : _Instructor_ (Dec 2017 to May 2018) </br> + Educated the next generation of Engineers on coding concepts </br> + Forced OO into a platform with no OO </br> + Created an advanced lunar lander software suite with simplified controls [entirely in Scratch](https://scratch.mit.edu/projects/212413890/)
+**`Coding With Kids`** : _Instructor_ (Dec 2017 to May 2018) </br> + Educated the next generation of Engineers on coding concepts </br> + Created an advanced lunar lander software suite with simplified controls [entirely in Scratch](https://scratch.mit.edu/projects/212413890/)
 > Skills: Python, Scratch, Patience, Boxless thinking, Concept distillation
 
 
@@ -15,11 +15,11 @@ Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. T
 > Skills: Open-source, Web technologies, PHP, HTML, CSS, Object-oriented
 
 
-**`Digital Domain/ IM360`** : _FPGA Design Engineer_ (Aug 2016 to May 2017) </br> + Built blocks for integration into real time 360° motion video cameras </br> + Implemented cosimulation to reduce design, implementation, and execution time for workflow
-> Skills: FPGA, VHDL, Xilinx, Image Processing, Real Time, DSP, RTL, Critical Path Analysis, Floorplanning
+**`Digital Domain/ IM360`** : _FPGA Design Engineer_ (Aug 2016 to May 2017) </br> + Built blocks for integration into real time 360° motion video cameras (4k x 7, eth interface)</br> + Conducted research to assist PM in selecting the right FPGA </br> + Developed gamma correction independently, assisted with other image processing (e.g. compression, color correction) </br> + Implemented cosimulation to reduce design, implementation, and execution time for workflow
+> Skills: FPGA, VHDL + Xilinx + Vivado, Real Time, DSP, Critical Path Analysis, Floorplanning, cosimulation, SPI/UART/I2C
 
 
-**`US Army`** : _Intelligence Analyst and Satellite Technician_ (Apr 2008 to Mar 2011) </br> + Focused on socio-political, international, and military dynamic of NE Asia at strategic leadership decision level </br> + Maintainer/Operator working outside of primary military MOS </br> + Maintained, authorized, and distributed usage of over 70 SATCOM circuits from 256kbps to 4096kbps 
+**`US Army`** : _Cross-Trained: Intelligence Analyst and Satellite Technician_ (Apr 2008 to Mar 2011) </br> + Focused on socio-political, international, and military dynamic of NE Asia at strategic leadership decision level </br> + Maintained, authorized, and distributed usage of over 70 SATCOM circuits from 256kbps to 4096kbps 
 > Skills: SATCOM, JMICS, Trojan, All-Source Analysis, International Politics, IT, Administration, Strategy
 
 | Education and Links|||
