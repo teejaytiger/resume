@@ -15,11 +15,11 @@ Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. T
 > Skills: Open-source, Web technologies, PHP, HTML, CSS, Object-oriented
 
 
-**`Digital Domain/ IM360`** : _FPGA Design Engineer_ (Aug 2016 to May 2017) </br> + Built blocks for integration into real time 360° motion video cameras (4k x 7, eth interface)</br> + Conducted research to assist PM in selecting the right FPGA </br> + Developed gamma correction independently, assisted with other image processing (e.g. compression, color correction) </br> + Implemented cosimulation to reduce design, implementation, and execution time for workflow
+**`Digital Domain/ IM360`** : _FPGA Design Engineer_ (Aug 2016 to May 2017) </br> + Built blocks for integration into real time 360° motion video cameras (4k x 7, eth interface)</br> + Conducted research to assist PM in selecting the right FPGA </br> + Developed gamma correction independently, assisted with other image processing  </br> + Implemented cosimulation to reduce design, implementation, and execution time for workflow
 > Skills: FPGA, VHDL + Xilinx + Vivado, Real Time, DSP, Critical Path Analysis, Floorplanning, cosimulation, SPI/UART/I2C
 
 
-**`US Army`** : _Cross-Trained: Intelligence Analyst and Satellite Technician_ (Apr 2008 to Mar 2011) </br> + Focused on socio-political, international, and military dynamic of NE Asia at strategic leadership decision level </br> + Maintained, authorized, and distributed usage of over 70 SATCOM circuits from 256kbps to 4096kbps 
+**`US Army`** : _Cross-Trained: Intelligence Analyst and Satellite Technician_ (Apr 2008 to Mar 2011) </br> + Focused on socio-political, international, and military dynamic of NE Asia at strategic leadership level </br> + Maintained, authorized, and distributed usage of over 70 SATCOM circuits from 256kbps to 4096kbps 
 > Skills: SATCOM, JMICS, Trojan, All-Source Analysis, International Politics, IT, Administration, Strategy
 
 | Education and Links|||
