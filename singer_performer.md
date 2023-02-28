@@ -8,6 +8,8 @@
 
 ### Performance History: 
 
+**`Bright Star preented by GVTC`** : _Actor_ </br> + Stanford, Max, Ensemble </br> + First performance in a Musical </br> + 12 performance run
+
 **`The VerteFée Cabaret-GHOST STORIES & LURID TALED`** : _Performer_ (Fall 2022) </br> + First experience acting on stage </br> + Performed in comedy sketches, ensemble parts, and short musicals </br> + Super duper ultra fun and why I'm auditioning for this, obviously
 
 **`Spirit of Broadway`** : _Paid Singer_ (July 2022) </br> + Performed in 4 Ensemble parts + Solo performance of _If I Were A Rich Man_ </br> + Assisted the creative director in developing the program </br> + Trained one of the singers to improve their confidence and performance </br> + Self-driven development of part. Very few rehearsals scheduled before tech week
