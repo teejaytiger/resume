@@ -3,7 +3,7 @@ is a `SW/HW tech stack generalist`,
 Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. Their previous positions are:   
 
 ---
-**`Orolia Defense Services`** : _FPGA Engineer_ (April 2023 to Present) </br> + Responsible for the development of FPGA and embedded systems for Position, Navigation, and Timing (PNT) </br> 
+**`Orolia Defense Services`** : _FPGA Engineer_ (April 2023 to Present) </br> + Responsible for the development of FPGA + embedded for Position, Navigation, and Timing (PNT) </br> 
 > Skills: VHDL, Intel, Altera, Quartus, SPI/UART/I2C, Timing, GPS/GNSS
 
 
@@ -11,7 +11,7 @@ Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. T
 > Skills: C++, C#, Python, uArch, Optimization, Tools, VTune, WPA/WPR/xperf, SEP/EMON, TypePerf, CAD 
 
 
-**`Coding With Kids`** : _Instructor_ (Dec 2017 to May 2018) </br> + Educated the next generation of Engineers on coding concepts </br> + Created an advanced lunar lander software suite with simplified controls [entirely in Scratch](https://scratch.mit.edu/projects/212413890/)
+**`Coding With Kids`** : _Instructor_ (Dec 2017 to May 2018) </br> + Educated the next generation of Engineers on coding concepts </br> + Pioneered an advanced lunar lander software suite with simplified controls [entirely in Scratch](https://scratch.mit.edu/projects/212413890/)
 > Skills: Python, Scratch, Patience, Boxless thinking, Concept distillation
 
 
@@ -19,7 +19,7 @@ Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. T
 > Skills: Open-source, Web technologies, PHP, HTML, CSS, Object-oriented
 
 
-**`Digital Domain/ IM360`** : _FPGA Design Engineer_ (Aug 2016 to May 2017) </br> + Built blocks for integration into real time 360° motion video cameras (4k x 7, eth interface)</br> + Conducted research to assist PM in selecting the right FPGA </br> + Developed gamma correction independently, assisted with other image processing  </br> + Implemented cosimulation to reduce design, implementation, and execution time for workflow
+**`Digital Domain/ IM360`** : _FPGA Design Engineer_ (Aug 2016 to May 2017) </br> + Built blocks for integration into real time 360° motion video cameras (4k x 7, eth interface)</br> + Developed gamma correction independently, assisted with other image processing  </br> + Implemented cosimulation to reduce design, implementation, and execution time for workflow
 > Skills: FPGA, VHDL + Xilinx + Vivado, DSP, Floorplanning, cosimulation, SPI/UART/I2C
 
 
