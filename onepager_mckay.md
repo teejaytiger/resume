@@ -3,7 +3,11 @@ is a `SW/HW tech stack generalist`,
 Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. Their previous positions are:   
 
 ---
-**`Intel Corporation`** : _Software Application Engineer_ (May 2018 to Present) </br> + High touch 3rd party client optimizations and performance analysis (Microsoft, Amazon, Autodesk, SideFX) <br> + Was brought on as a consultant to establish value prop for unreleased M&E FPGA accelerator <br> + Worked on systems from RTL and FPGA projects through distributed software platforms <br> + Managed/owned [Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) and designed a complete overhaul of the software <br> + Identified issues in pre-production hardware <br> + Developed value prop analysis on both unreleased internal projects and [Optane Memory](https://www.intel.com/content/www/us/en/products/details/memory-storage/optane-memory.html)  
+**`Orolia Defense Services`** : _FPGA Engineer_ (April 2023 to Present) </br> + Responsible for the development of FPGA and embedded systems for Position, Navigation, and Timing (PNT) </br> 
+> Skills: VHDL, Intel, Altera, Quartus, SPI/UART/I2C, Timing, GPS/GNSS
+
+
+**`Intel Corporation`** : _Software Application Engineer_ (May 2018 to Feb 2023) </br> + High touch 3rd party client optimizations and performance analysis (Microsoft, Amazon, Autodesk, SideFX) <br> + Managed/owned [Power Gadget](https://software.intel.com/content/www/us/en/develop/articles/intel-power-gadget.html) and designed a complete overhaul of the software <br> + Developed value prop analysis on both unreleased internal projects and [Optane Memory](https://www.intel.com/content/www/us/en/products/details/memory-storage/optane-memory.html)  
 > Skills: C++, C#, Python, uArch, Optimization, Tools, VTune, WPA/WPR/xperf, SEP/EMON, TypePerf, CAD 
 
 
@@ -16,7 +20,7 @@ Extroverted parent, relentless tinkerer, and an owner of one too many hobbies. T
 
 
 **`Digital Domain/ IM360`** : _FPGA Design Engineer_ (Aug 2016 to May 2017) </br> + Built blocks for integration into real time 360° motion video cameras (4k x 7, eth interface)</br> + Conducted research to assist PM in selecting the right FPGA </br> + Developed gamma correction independently, assisted with other image processing  </br> + Implemented cosimulation to reduce design, implementation, and execution time for workflow
-> Skills: FPGA, VHDL + Xilinx + Vivado, Real Time, DSP, Critical Path Analysis, Floorplanning, cosimulation, SPI/UART/I2C
+> Skills: FPGA, VHDL + Xilinx + Vivado, DSP, Floorplanning, cosimulation, SPI/UART/I2C
 
 
 **`US Army`** : _Cross-Trained: Intelligence Analyst and Satellite Technician_ (Apr 2008 to Mar 2011) </br> + Focused on socio-political, international, and military dynamic of NE Asia at strategic leadership level </br> + Maintained, authorized, and distributed usage of over 70 SATCOM circuits from 256kbps to 4096kbps 
