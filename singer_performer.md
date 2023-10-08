@@ -8,7 +8,7 @@
 
 ### Performance History: 
 
-**`MacBeth In Space: The Musical`** : _Actor_ (Nov 2023) - TFO<br> + Presented by Trash Film Orgy (In progress) show date: Nov 4, 2023q
+**`MacBeth In Space: The Musical`** : _Actor_ (Nov 2023) - TFO<br> + Presented by Trash Film Orgy (In progress) show date: Nov 4, 2023
 
 **`The VerteFée Cabaret-OKTOBERFEST`** : _Actor, Soloist_ (Fall 2023) - GVTC</br> + Several comedy sketch parts and two soloist performances </br> + Learned a German part for yodeling solo </br> + 2 night, sold out show
 
